@@ -50,10 +50,5 @@ yarn start
 
 - Arch Linux 5.7.12
 
-## 📝 License
 
-Copyright © 2020 [Pedro Bonifacio](https://github.com/pedroboni).<br />
-This project is [MIT](https://github.com/pedroboni/proffy) licensed.
-
-***
 _💜_
