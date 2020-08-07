@@ -11,29 +11,12 @@
     <img alt="Twitter: pedrboni" src="https://img.shields.io/twitter/follow/pedrboni.svg?style=social" />
   </a>
 
-<hr />
+<hr />  
 
-<h2 align="center">Web</h2>
+## Docs  
 
-## Install
-
-```
-npm install
-```
-or
-```
-yarn install
-```
-
-## Usage
-
-```
-npm start
-```
-or
-```
-yarn start
-```
+- [WEB](web/README.md)  
+- [Server](server/README.md)
 
 ## Author
 
@@ -57,3 +40,4 @@ This project is [MIT](https://github.com/pedroboni/proffy) licensed.
 
 ***
 _💜_
+
