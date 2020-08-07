@@ -1,6 +1,6 @@
 <div style="background-color: #8257E5; padding-top: 1px; width: 100%">
   <h1 align="center">
-    <img src="web/src/assets/images/logo.svg" alt="downshift logo" title="downshift logo" width="300">
+    <img src="logoGit.svg" alt="Proffy logo" title="Proffy logo" width="300">
     <br>
   </h1>
 </div>
@@ -33,7 +33,6 @@
 
 - Arch Linux 5.7.12
 
-## 📝 License
 
 Copyright © 2020 [Pedro Bonifacio](https://github.com/pedroboni).<br />
 This project is [MIT](https://github.com/pedroboni/proffy) licensed.
