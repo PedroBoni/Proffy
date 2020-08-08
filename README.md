@@ -18,11 +18,6 @@
 - [WEB](web/README.md)  
 - [Server](server/README.md)
 
-## Author
-
-👤 **Rocketseat**
-
-### Developed by me during Next Week Level # 2  
 👤 **Pedro Bonifacio**
 
 * Twitter: [@pedrboni](https://twitter.com/pedrboni)
@@ -33,7 +28,7 @@
 
 - Arch Linux 5.7.12
 
-
+NWL 2  
 Copyright © 2020 [Pedro Bonifacio](https://github.com/pedroboni).<br />
 This project is [MIT](https://github.com/pedroboni/proffy) licensed.
 
