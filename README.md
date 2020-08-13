@@ -26,7 +26,8 @@
 
 ## Tested in
 
-- Arch Linux 5.7.12
+- Arch Linux 
+- Fedora
 
 NWL 2  
 Copyright © 2020 [Pedro Bonifacio](https://github.com/pedroboni).<br />
